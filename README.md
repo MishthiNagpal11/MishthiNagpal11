@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋 I'm Mishthi
 
-<!--
-**MishthiNagpal11/MishthiNagpal11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science undergrad  
+💡 Passionate about building tech that solves real-world problems  
+🤝 I love collaborating on creative and impactful projects  
+🛠️ Currently exploring: software engineering, creative coding, and ethical innovation  
+🌱 Always learning, always growing
 
-Here are some ideas to get you started:
+## 📫 Let's Connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 LinkedIn: https://www.linkedin.com/in/mishthi-nagpal/  
+- 📬 Email: mishthinagpal11@gmail.com
+
